@@ -128,6 +128,19 @@ void GenerateMultiples(int minNumber, int maxNumber, int multiplier)
 - Topic 13: Trail Renderer
 - Topic 14: Mesh Renderer
 
+This week's task was to create a solar system in Unity by applying textures to 3D objects. I thoroughly enjoyed working on this project and integrated the real rotation and orbital periods of the planets around the sun into Unity with specific ratios. It was fascinating to see the planets rotating on their own axes and revolving around the sun at realistic speeds.
+
+Due to the size and distances of the sun and planets, it was challenging to fit them perfectly in the scene. As a result, I had to randomly place them to ensure they were visible and didn't overlap. Although not to scale, this approach still allowed me to showcase the relative sizes and distances between the celestial bodies.
+
+To bring realism to the textures, I obtained them from "solarsystemscope.com." Additionally, I had the opportunity to explore the universe in my own way using the simulator on the website. It was a delightful experience as I learned new and intriguing information about different celestial bodies. This added layer of engagement and learning made the project even more enjoyable.
+
+Working on this solar system simulation in Unity allowed me to exercise my creativity, apply my knowledge of celestial bodies, and gain a deeper appreciation for the vastness and wonders of our universe. It was a rewarding endeavor that provided both entertainment and educational value.
+
+## Movie
+
+![Solar_System_Movie](https://github.com/dgdfurkan/UretkenAkademiCase/blob/main/Recordings/Solar_System_Movie.gif)
+
+
 
 
 
